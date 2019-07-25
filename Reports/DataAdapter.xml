@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>cus</name><driver>com.mysql.jdbc.Driver</driver><username>root</username><password>1234</password><savePassword>true</savePassword><url>jdbc:mysql://localhost/thogakade</url><database></database><serverAddress></serverAddress><classpath>E:\IJSE\POS-System\lib\mysql-connector-java-8.0.13.jar</classpath></jdbcDataAdapter>
